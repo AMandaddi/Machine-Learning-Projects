@@ -1,6 +1,3 @@
-![ViewCount](https://views.whatilearened.today/views/github/Aryan4433/Machine-Learning-projects.svg?cache=remove)
-![GitHub last commit](https://img.shields.io/github/last-commit/Aryan4433/Machine-Learning-projects?style=flat)
-
 <h1 align="center">Hi 👋, I'm Anusha Mandaddi </h1>
 <h3 align="center">Data Enthusiast | Analytical Thinker | Insightful Solutions for Data-Driven Success</h3>
 
@@ -18,3 +15,6 @@ These projects cover a range of techniques and concepts, including classificatio
 As you explore, you'll discover how data can be transformed into actionable insights and how ML models can provide solutions to complex challenges. My goal is to continue learning, experimenting, and sharing with the community to further improve my skills and contribute to the ever-growing field of data.
 
 Thanks for visiting! Let's learn and grow together.
+
+
+![ViewCount](https://views.whatilearened.today/views/github/Aryan4433/Machine-Learning-projects.svg?cache=remove)
